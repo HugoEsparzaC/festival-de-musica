@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/HugoEsparzaC/festival-de-musica/issues"
   },
-  "homepage": "https://github.com/HugoEsparzaC/festival-de-musica#readme"
+  "homepage": "https://github.com/HugoEsparzaC/festival-de-musica#readme",
+  "devDependencies": {
+    "sass": "^1.77.6"
+  }
 }
