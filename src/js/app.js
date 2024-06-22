@@ -1,0 +1,1 @@
+alert('Deste app.jsadasdsad')
